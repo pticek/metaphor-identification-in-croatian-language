@@ -5,6 +5,8 @@ Predmet istraživanja prikazanog u ovom doktorskom radu pripada području obrade
 
 **Ključne riječi:** anotiranje metafore, MIPVU, identifikacija metafore, hrvatski jezik, neuronske mreže, transformatorska neuronska mreža, jezični modeli
 
+Verzija rada prije obrane nalazi se [ovdje](https://www.foi.unizg.hr/sites/default/files/pticek-martina-doktorski-rad-final.pdf)
+
 <br>
 
 # Contemporary approaches to natural language processing – metaphor identification in Croatian language
@@ -14,4 +16,5 @@ The subject matter of the survey presented in this paper lies in the field of na
 
 **Key words:** metaphor annotation, MIPVU, metaphor identification, Croatian language, neural networks, Transformers, language models 
 
+The version of the paper before the defense can be found [here](https://www.foi.unizg.hr/sites/default/files/pticek-martina-doktorski-rad-final.pdf)
 
